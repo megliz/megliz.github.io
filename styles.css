@@ -1,0 +1,221 @@
+.container-fluid { 
+    background: white;
+    padding-right:0;
+    padding-left:0;
+    margin-right:auto;
+    margin-left:auto;
+}
+header {
+    background: #8FDDDC;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    height: 300px;
+    font-family: "lucida handwriting"; 
+    color: #5E3E23;
+}
+img.logo {
+    height: 120px;
+    margin: 20px;
+    border-radius: 50%
+}
+.navbar {
+    background: #008C95;
+}
+.navbar-nav .nav-item .nav-link:hover {
+  color: #C9B691;
+}
+.btn-outline-primary {
+  color: #daf7a6;
+  background-color: transparent;
+  background-image: none;
+  border-color: #daf7a6;
+  margin-bottom: 5px;
+  margin-right: 15px;
+}
+
+.btn-outline-primary:hover {
+  background: #daf7a6;
+  color: black;
+  border-color: #daf7a6;
+}
+.btn-group .btn-secondary {
+  margin: 5px;
+  border-radius: 10px;
+}
+.row {
+    margin-left: auto;
+    margin-right: auto;
+}
+img.christmas {   
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 10px 0;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    float: none;
+}
+img.storefront {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 10px 0;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    float: none;
+}
+img.gloria {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 10px 0;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    float: none;
+}
+p.review {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 10px 0;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    float: none;
+    font-family: "shink";
+    color: #C9B691;
+    font-size: 20px;
+}
+p.ourstore {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 10px 0;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    float: none;
+    font-family: "shink";
+    color: #C9B691;
+    font-size: 30px;
+}
+p.about {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 10px 0;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    float: none;
+    font-family: 'Raleway', sans-serif;
+}
+p.cite {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 10px 0;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    float: none;
+    font-family: 'Raleway', sans-serif;
+}
+p.highlight {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 10px 0;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    float: none;
+    font-family: "shink";
+    color: #C9B691;
+    font-size: 20px;
+}
+@font-face {
+    font-family: "shink";
+    src: url("css/fonts/shinkfont.otf")format("opentype");
+}
+footer {
+    height: 100px;
+    background: #008C95;  
+}
+.contact {
+    font-family: "shink";
+    float: left;  
+    margin-left: 5%;
+    font-size: 40px;
+    margin-top: 20px;
+    color: #C9B691;
+}
+.info {
+    float: right;
+    margin-right: 60%;
+    margin-top: 10px;
+    color: white;
+}
+.col-sm-12 {
+    height: 80px;
+    background: #C9B691;
+    color: #5E3E23;
+    font-family: "lucida handwriting"; 
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+}
+.col-sm-11 {
+    margin: auto;
+}
+p.art-title {
+    font-family: "shink";
+    font-size: 25px;
+    padding: 15px;
+    margin: 0;
+    text-align: center;
+}
+p.about-art {
+    font-family: 'Raleway', sans-serif;
+    margin: 10px;
+}
+.art {
+    width: 100%;
+    height: 300px;
+    padding: 20px;
+}
+p.art-description {
+    font-family: "Raleway", sans-serif;
+    margin: 5px;
+}
+.pottery {
+    width: 50%
+}
+.jewelry {
+    width: 50%;
+    height: 300px;
+    padding: 20px;
+}
+p.frame-title {
+    font-family: "shink";
+    font-size: 25px;
+    padding: 15px;
+    margin: 0;
+    text-align: center;
+}
+p.about-frame {
+    font-family: 'Raleway', sans-serif;
+    margin: 10px;
+}
+.gifts {
+    width: 100%;
+    height: 250px;
+}
+p {
+    font-family: 'Raleway', sans-serif;
+    margin: 10px;
+}
